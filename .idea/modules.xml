@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AbelTasmanBelleview.iml" filepath="$PROJECT_DIR$/.idea/AbelTasmanBelleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelpXWorkawayAirbnbReviewScraper/.idea/HelpXWorkawayAirbnbReviewScraper.iml" filepath="$PROJECT_DIR$/../HelpXWorkawayAirbnbReviewScraper/.idea/HelpXWorkawayAirbnbReviewScraper.iml" />
+    </modules>
+  </component>
+</project>
